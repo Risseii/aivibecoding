@@ -1,6 +1,6 @@
 # 🐭 SQL cottage 🧀
 
-**Moussie** is a cozy, gamified learning experience designed to make SQL mastery delightful. Help **Moussie**, our curious little mouse writing perfect queries. Every correct query rewards Moussie with a delicious piece of cheese for his burrow; every mistake makes one disappear. 
+**Moussie** is a cozy, gamified learning experience designed to make SQL mastery delightful. Help Moussie, our curious little mouse writing perfect queries. Every correct query rewards Moussie with a delicious piece of cheese for his burrow; every mistake makes one disappear. 
 
 ## ✨ Features
 
