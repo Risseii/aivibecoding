@@ -6,7 +6,7 @@
 
 * **Interactive Learning:** Real-time SQL execution to solve puzzles.
 * **Visual Inventory:** A persistent burrow where you can see your cheese collection grow.
-* **Progressive Difficulty:** From basic `SELECT` statements to complex `JOIN` operations.
+* **Progressive Difficulty:** From basic `SELECT` statements to more complex operations.
 
 ## 🛠️ Tech Stack
 
@@ -14,7 +14,7 @@
 
 ## 🚀 How to Play
 
-1.  **Read the Quest:** There are mission organised by levels: basic, intermediate and advanced.
+1.  **Read the Quest:** There are mission organised by levels: basic and intermediate.
 2.  **Write the Query:** Enter your SQL code in the magic stone terminal.
 3.  **Collect Cheese:** If your syntax is correct, Moussie gets a treat and your inventory grows!
 
