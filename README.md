@@ -18,6 +18,7 @@
 2.  **Write the Query:** Enter your SQL code in the magic stone terminal.
 3.  **Collect Cheese:** If your syntax is correct, Moussie gets a treat and your inventory grows!
 
-## 🐭 Demo
-https://sqlcottage.surgent.site
+## Preview
+
+<img width="1402" height="773" alt="img-426" src="https://github.com/user-attachments/assets/7f6a0b72-ce0a-40a2-8635-5b0a8e632ee2" />
 
