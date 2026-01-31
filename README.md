@@ -19,3 +19,5 @@
 3.  **Collect Cheese:** If your syntax is correct, Moussie gets a treat and your inventory grows!
 
 ## 🐭 Demo
+https://sqlcottage.surgent.site
+
